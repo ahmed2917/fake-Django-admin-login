@@ -1,0 +1,6 @@
+django==4.2.4
+django-admin-honeypot==1.1.0
+pip-chill==1.0.3
+# asgiref==3.7.2 # Installed as dependency for django
+# sqlparse==0.4.4 # Installed as dependency for django
+# typing-extensions==4.7.1 # Installed as dependency for asgiref
